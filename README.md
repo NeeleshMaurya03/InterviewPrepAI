@@ -1,4 +1,4 @@
-# IntelliPrep-AI 🌟
+# Interview Prep-AI 🌟
 
 This is a full-stack project showcasing an advanced AI-driven Interview Prep Platform built with a modern tech stack: PostgreSQL, FastAPI, Next.js, and Python. It integrates the xAI API to generate dynamic, role-specific interview questions in real-time 🚀.
 
